@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.evaluation_formative_08_01_2001326.MainActivity">
+    <item
+        android:id="@+id/recommencer"
+        android:orderInCategory="100"
+        android:title="@string/recommencer"
+        app:showAsAction="never" />
+</menu>
